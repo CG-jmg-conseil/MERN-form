@@ -1,7 +1,11 @@
 # MERN-form
-Application basique pour montrer les interactions entre un front-end (React) et un back-end (Express) & entre le back-end et la base de données (MongoDB) en utilisant le driver MongoDB natif. <br />
+Application basique pour montrer d'un côté les interactions entre front-end (React) et back-end (Express) &  de l'autre côté entre le back-end et la base de données (MongoDB) en utilisant le driver MongoDB natif. <br />
 
-L'application react tourne sur le port 3000 ; l'application Express sur le port 5000  <br />
+Recueillir les données d'un formulaire et les insérer dans une collection MongoDB <br />
+1. Le front-end envoie les données du formulaire avec le module AXIOS (https://axios-http.com/docs/intro);
+2. Le back-end effectue une requête pour insérer les données dans MongoDB(https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/) ; 
+
+L'application React tourne sur le port 3000 ; l'application Express sur le port 5000  <br />
 La chaine de connexion à MongoDB est définie dans un fichier d'environnement .env  <br />
 
 
