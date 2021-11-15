@@ -7,7 +7,7 @@ Recueillir les données d'un formulaire et les insérer dans une collection Mong
 1. Le front-end envoie les données du formulaire avec le module AXIOS (https://axios-http.com/docs/intro);
 2. Le back-end effectue une connexion à la base de données au démarrage du serveur;
 3. On écrit une requête 'app.post' pour insérer les données envoyées par le front-end dans MongoDB :
-4. https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/) ; <br />
+ https://docs.mongodb.com/manual/reference/method/db.collection.insertOne/ ; <br />
 
 L'application React tourne sur le port 3000 ; l'application Express sur le port 5000  <br />
 La chaine de connexion à MongoDB est définie dans un fichier d'environnement .env  <br />
