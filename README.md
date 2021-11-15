@@ -6,7 +6,7 @@ La chaine de connexion à MongoDB est définie dans un fichier d'environnement .
 
 
 Ressources supplémentaires :
-https://docs.mongodb.com/drivers/node/current/fundamentals/connection/ </n>
+https://docs.mongodb.com/drivers/node/current/fundamentals/connection/ <br />
 https://www.geeksforgeeks.org/native-mongodb-driver-for-node-js/
 https://www.mongodb.com/mern-stack
 https://bootcamp.berkeley.edu/resources/coding/learn-node-js/node-js-understanding-mern-stack/
